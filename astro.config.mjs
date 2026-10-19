@@ -5,8 +5,8 @@ import { fontProviders } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site:"https://cheng-jin-jun.github.io",
-  base:"/astro-zen/",
+  site:"https://liu-hai-tao.github.io",
+  base:"/astro-zen-main/",
   fonts: [
     {
       provider: fontProviders.fontsource(),
